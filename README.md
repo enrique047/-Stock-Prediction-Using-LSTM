@@ -26,9 +26,11 @@ Optional UI for interactive predictions (using `app.py`)
 
 ## To Run
 Make sure Streamlit is installed:
+
 pip install streamlit
 
 From the project root directory, run:
+
 streamlit run app.py
 
 This command starts a local web server and opens the Streamlit app in your browser.
